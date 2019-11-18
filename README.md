@@ -3,4 +3,5 @@ You will write a card counting function. It will receive a card parameter, which
 
 Example Output
 -3 Hold
+
 5 Bet
